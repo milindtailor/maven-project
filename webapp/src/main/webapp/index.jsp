@@ -17,7 +17,7 @@
 <br>
 <br>
 
-<center><img src="https://i.ibb.co/W2VPNM3/image1.jpg" width=50% hight=50%>
+<center><img src="https://github.com/milindtailor/maven-project/blob/master/image1.jpg" width=50% hight=50%>
  </center> </div>
 </body>
 </html>
