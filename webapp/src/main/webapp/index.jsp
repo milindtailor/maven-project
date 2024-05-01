@@ -14,9 +14,10 @@
 <br>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Hello, Welcome to great leaders from Bangalore - DevOps Academy</h2>
-    <br>
 <br>
-<center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
+<br>
+
+<center><img src="https://i.ibb.co/W2VPNM3/image1.jpg" width=50% hight=50%>
  </center> </div>
 </body>
 </html>
