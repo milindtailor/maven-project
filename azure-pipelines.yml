@@ -6,7 +6,10 @@
 trigger:
 - master
 
-pool: Self-Hosted-Pool
+pool:
+  name: Self-Hosted-Pool
+
+# pool: Self-Hosted-Pool
 
 steps:
 - script: echo Hello, world!
